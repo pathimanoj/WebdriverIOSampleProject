@@ -1,0 +1,17 @@
+{
+    "ListItems": {
+        "MenuItems": [
+            "Buy",
+            "Own",
+            "Why Volvo",
+            "Explore",
+            "More"
+        ],
+        "StatementMenuItems": [
+            "Speed cap",
+            "Highway pilot",
+            "Driver monitoring cameras",
+            "Care Key"
+        ]
+    }
+}
