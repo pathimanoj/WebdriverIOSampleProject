@@ -18,16 +18,16 @@ exports.config = {
     // ============
     // Capabilities
     // ============
-    maxInstances: 4,
+    maxInstances: 2,
     // For parallel testing
     capabilities: [
         {
-            maxInstances: 2,
+            maxInstances: 1,
             browserName: 'chrome',
             acceptInsecureCerts: true
         },
         {
-            maxInstances: 2,
+            maxInstances: 1,
             browserName: 'firefox',
             acceptInsecureCerts: true
         }

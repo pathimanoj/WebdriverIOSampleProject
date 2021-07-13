@@ -7,7 +7,7 @@
     "test": "npx wdio wdio.conf.js",
     "report": "marge ./reports/mochawesome/wdio-ma-merged.json --reportTitle 'VolvoTestReport' && move mochawesome-report.html ./mochawesome-report "
   },
-  "author": "",
+  "author": "Manoj Pathi",
   "license": "ISC",
   "dependencies": {
     "@wdio/cli": "^7.7.4"

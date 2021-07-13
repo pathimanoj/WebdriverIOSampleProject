@@ -35,7 +35,7 @@ To build the Docker container you can run:
 $ docker build -t mytest -f Dockerfile .
 ```
 
-To run the tests in docket, execute:
+To run the tests in docker, execute:
 ```bash
 $ docker run -it mytest
 ```

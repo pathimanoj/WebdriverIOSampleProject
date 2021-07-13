@@ -1,3 +1,4 @@
+// Just tried by taking examples from online
 describe.skip('Example', () => {
     beforeEach(() => {
        browser.url('https://webdriver.io');
